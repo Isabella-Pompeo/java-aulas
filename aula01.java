@@ -4,7 +4,7 @@ public class primeiroCodigo {
         int idade;
         idade = 19;
         String nome;
-        nome = "Fabricio Garcia"
+        nome = "Isabella Ramos Pompeo"
             System.out.printIn("O nome eh " + nome )
      }
 }
